@@ -3,6 +3,7 @@
 - HTML
 - JavaScript
 - Bootstrap
-&nbsp;
-Esta lista de tareas te permite añadir nuevas tareas y borrarlas según lo requieras.
 
+<br>
+
+Esta lista de tareas te permite añadir nuevas tareas y borrarlas según lo requieras.
